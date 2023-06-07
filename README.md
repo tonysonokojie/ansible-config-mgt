@@ -1,3 +1,2 @@
 # ansible-config-mgt
-
-checking 
+assignment
