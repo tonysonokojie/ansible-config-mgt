@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 apache_enablerepo: ""
 
 apache_listen_ip: "*"
@@ -60,8 +59,8 @@ apache_restart_state: restarted
 # Apache package state; use `present` to make sure it's installed, or `latest`
 # if you want to upgrade or switch versions using a new repo.
 apache_packages_state: present
-=======
-# defaults file for apacheRole
+
 enable_apache_lb: false
 load_balancer_is_required: false
->>>>>>> c038c905d34f80c13a259a6677bad143cea5c150
+
+

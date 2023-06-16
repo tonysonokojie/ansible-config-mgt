@@ -3,7 +3,7 @@
 
 - name: Loadbalancers assignment
 
-  import_playbook: ./static-assignments/loadbanlancers.yml
+  import_playbook: ../static-assignments/loadbanlancers.yml
 
   when: load_balancer_is_required
 
