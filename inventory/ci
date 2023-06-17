@@ -1,0 +1,11 @@
+[jenkins]
+172.31.45.91 ansible_ssh_user='ubuntu'
+
+[nginx]
+172.31.36.198 ansible_ssh_user='ubuntu'
+
+[sonarqube]
+<SonarQube-Private-IP-Address>
+
+[artifact_repository]
+<Artifact_repository-Private-IP-Address>
