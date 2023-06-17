@@ -4,7 +4,7 @@
 [db]
 172.31.45.39 ansible_ssh_user='ubuntu'
 
-[lb]
+#[lb]
 172.31.36.37 ansible_ssh_user='ubuntu'
 
 [tooling]
